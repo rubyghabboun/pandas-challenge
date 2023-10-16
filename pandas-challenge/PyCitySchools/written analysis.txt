@@ -1,0 +1,19 @@
+In this project, Schools are grouped into two types ( Charter and District ).
+The combined student population in these schools is 39,170.
+The total budget for all schools is approximately $24.65 million.
+
+Charter schools have higher overall passing rates compared to District schools.
+we can see the top performing schools, all are Charter schools, and among the bottom performing schools, all are District schools.
+The top performing schools have overall passing rates above 95%, while the bottom performing schools have overall passing rates below 75%.
+
+The average math score across all students is about 78.98, and the average reading score is approximately 81.88.
+Around 74.98% of students are passing math (scoring 70 or higher), and 85.81% are passing reading.
+
+Generally, math and reading scores are consistent across all provided grade levels. There is no significant change in scores between grades 9 to 12
+
+Schools with higher spending per student do not necessarily have higher average test scores or passing rates.
+and schools in the "spending range" of "$585-630" per student tend to have the highest overall passing rates.
+This suggests that higher spending does not guarantee better performance and that there may be wasting returns on investment.
+
+School size, budget per student, and school type can be factors influencing performance.
+Also, Charter schools are consistently outperforming District schools
